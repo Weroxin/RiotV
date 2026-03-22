@@ -6,7 +6,7 @@ The script utilizes a bitmask driving style (`1073741824`) to bypass standard AI
 
 **Usage:**
 1. Download the `RiotV.cs` file.
-2. Ensure `ScriptHookVDotNet` is installed.
+2. Ensure `ScriptHookVDotNet` and `ScriptHook` is installed.
 3. Move the file to your `/scripts` folder.
 4. Press `F5` in-game to toggle.
 
